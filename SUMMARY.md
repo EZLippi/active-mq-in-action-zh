@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [消息系统和ActiveMQ简介](chapter1.md)
     * [ActiveMQ简介](activemq简介.md)
+        * ActiveMQ特性简介
+        * 为什么使用ActiveMQ
     * 理解面向消息的中间件和JMS
 * 配置标准的ActiveMQ组件
     * 连接ActiveMQ
