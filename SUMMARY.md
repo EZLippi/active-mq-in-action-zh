@@ -2,20 +2,20 @@
 
 * [Introduction](README.md)
 * [第一部分  消息系统和ActiveMQ简介](part1/README.md)
-    * [1. ActiveMQ简介](activemq简介.md)
+    * [1. ActiveMQ简介](part1/activemq简介.md)
         * 1.1 ActiveMQ特性简介
         * 1.2 为什么使用ActiveMQ
         * 1.3 ActiveMQ起步
         * 1.4 第一个例子
         * 1.5 总结
-    * [2. 理解面向消息的中间件和系统](理解面向消息的中间件和系统.md)
+    * [2. 理解面向消息的中间件和系统](part1/理解面向消息的中间件和系统.md)
         * 2.1 企业级消息系统简介
         * 2.2 什么是面向消息的中间件
         * 2.3 什么是Java消息服务
         * 2.4 JMS规范
         * 2.5 使用JMS API创建JMS应用
         * 2.6 总结
-    * [3.Active MQ实战教程](3active-mq实战教程.md)
+    * [3.Active MQ实战教程](part1/3active-mq实战教程.md)
         * 3.1 下载Maven并编译示例代码
         * [3.2 股票投资案例](31-股票投资案例.md)
         * 3.3 消息队列案例分析
