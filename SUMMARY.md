@@ -22,15 +22,15 @@
         * 3.4 总结
 
 -----
-* [第二部分 配置标准的ActiveMQ组件](第二部分-配置标准的activemq组件.md)
-    * [4. 连接ActiveMQ](连接ActiveMQ.md)
+* [第二部分 配置标准的ActiveMQ组件](part2/第二部分-配置标准的activemq组件.md)
+    * [4. 连接ActiveMQ](part2/连接ActiveMQ.md)
         * [4.1 理解Connector URI](41-理解connector-uri.md)
         * 4.2 传输连接器
         * 4.3 与ActiveMQ的通信
         * 4.4 在虚拟机内连接ActiveMQ
         * 4.5 网络连接器
         * 4.6 总结
-    * [5. ActiveMQ消息存储](activemq消息存储.md)
+    * [5. ActiveMQ消息存储](part2/activemq消息存储.md)
         * 5.1 Active MQ如何存储消息
         * 5.2 KahaDB消息存储
         * 5.3 AMQ消息存储
@@ -38,7 +38,7 @@
         * 5.5 内存消息存储
         * 5.6 在broker中缓存消息
         * 5.7 总结
-    * [6. ActiveMQ数据安全](ActiveMQ数据安全.md)
+    * [6. ActiveMQ数据安全](part2/ActiveMQ数据安全.md)
         * 6.1 认证
         * 6.2 授权
         * 6.3 构建自定义鉴权插件
@@ -46,10 +46,10 @@
         * 6.5 总结
 
 -----
-* [第三部分 使用ActiveMQ构建消息系统](使用activemq构建消息系统.md)
-    * [创建Java应用](创建java应用.md)
-    * [与应用服务器集成](与应用服务器集成.md)
-    * [ ActiveMQ其他语言的客户端](ActiveMQ其他语言的客户端.md)
+* [第三部分 使用ActiveMQ构建消息系统](part3/使用activemq构建消息系统.md)
+    * [创建Java应用](part3/创建java应用.md)
+    * [与应用服务器集成](part3/ActiveMQ其他语言的客户端.md)
+    * [ ActiveMQ其他语言的客户端](part3/ActiveMQ其他语言的客户端.md)
 
 -----
 * [第四部分 ActiveMQ高级特性](ActiveMQ高级特性.md)
