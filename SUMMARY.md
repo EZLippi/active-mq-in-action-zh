@@ -48,14 +48,14 @@
 -----
 * [第三部分 使用ActiveMQ构建消息系统](part3/使用activemq构建消息系统.md)
     * [创建Java应用](part3/创建java应用.md)
-    * [与应用服务器集成](part3/ActiveMQ其他语言的客户端.md)
+    * [与应用服务器集成](part3/与应用服务器集成.md)
     * [ ActiveMQ其他语言的客户端](part3/ActiveMQ其他语言的客户端.md)
 
 -----
-* [第四部分 ActiveMQ高级特性](ActiveMQ高级特性.md)
-    * [在企业中部署ActiveMQ](在企业中部署ActiveMQ.md)
-    * [broker特性实战](broker特性实战.md)
-    * [高级客户端选项](高级客户端选项.md)
-    * [ActiveMQ性能调优](ActiveMQ性能调优.md)
-    * [ActiveMQ管理和监控](ActiveMQ管理和监控.md)
+* [第四部分 ActiveMQ高级特性](part4/ActiveMQ高级特性.md)
+    * [在企业中部署ActiveMQ](part4/在企业中部署ActiveMQ.md)
+    * [broker特性实战](part4/broker特性实战.md)
+    * [高级客户端选项](part4/高级客户端选项.md)
+    * [ActiveMQ性能调优](part4/ActiveMQ性能调优.md)
+    * [ActiveMQ管理和监控](part4/ActiveMQ管理和监控.md)
 
