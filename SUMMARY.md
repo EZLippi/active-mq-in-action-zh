@@ -1,4 +1,4 @@
-# 
+# Summary
 
 * [Introduction](README.md)
 * [第一部分  消息系统和ActiveMQ简介](chapter1.md)
@@ -29,7 +29,7 @@
 
 * [第二部分 配置标准的ActiveMQ组件](第二部分-配置标准的activemq组件.md)
   * [4. 连接ActiveMQ](连接ActiveMQ.md)
-    * 4.1 理解Connector URI
+    * [4.1 理解Connector URI](41-理解connector-uri.md)
     * 4.2 传输连接器
     * 4.3 与ActiveMQ的通信
     * 4.4 在虚拟机内连接ActiveMQ
@@ -37,6 +37,14 @@
     * 4.6 总结
 
   * [5. ActiveMQ消息存储](activemq消息存储.md)
+    * 5.1 Active MQ如何存储消息
+    * 5.2 KahaDB消息存储
+    * 5. 3 AMQ消息存储
+    * 5.4 JDBC消息存储
+    * 5.5 内存消息存储
+    * 5.6 在broker中缓存消息
+    * 5.7 总结
+
   * [6. ActiveMQ数据安全](ActiveMQ数据安全.md)
 
 
