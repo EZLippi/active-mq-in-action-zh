@@ -1,15 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
-* [1. 消息系统和ActiveMQ简介](chapter1.md)
+* [第一部分  消息系统和ActiveMQ简介](chapter1.md)
 
-  * [ActiveMQ简介](activemq简介.md)
+  * [1. ActiveMQ简介](activemq简介.md)
 
-    * ActiveMQ特性简介
-    * 为什么使用ActiveMQ
-    * ActiveMQ起步
-    * 第一个例子
-    * 总结
+    *  1.1 ActiveMQ特性简介
+    * 1.2 为什么使用ActiveMQ
+    * 1.3 ActiveMQ起步
+    * 1.4 第一个例子
+    * 1.5 总结
 
   * 理解面向消息的中间件和JMS
 
@@ -45,6 +45,7 @@
   * ActiveMQ消息存储
 
   * ActiveMQ数据安全
+
 
 * 使用ActiveMQ构建消息系统
 
