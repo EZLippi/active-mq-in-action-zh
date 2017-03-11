@@ -1,6 +1,6 @@
-## Active MQ 实战
+## ActiveMQ 实战
 
-* Active MQ In Action 中文版\(Active MQ中文教程\)， 目前正在翻译当中 欢迎大家一起加入
+* ActiveMQ In Action 中文版\(ActiveMQ中文教程\)， 目前正在翻译当中 欢迎大家一起加入
 
 * 如果发现不通顺或者有歧义的地方, 可以在评论里指出来, 我会及时改正的
 
@@ -8,13 +8,14 @@
 
 * [阅读地址](https://lippiouyang.gitbooks.io/active-mq-in-action-cn/content/)
 
-* 我会开放权限给每一个加入的伙伴 (翻译或者校对)，请提前邮箱联系 ouyanglip@gmail.com
+* 我会开放权限给每一个加入的伙伴 \(翻译或者校对\)，请提前邮箱联系 ouyanglip@gmail.com
 
-----
+
+---
 
 ### 如何参与
 
-任何问题都欢迎直接联系我 ouyanglip@gmail.com 
+任何问题都欢迎直接联系我 ouyanglip@gmail.com
 
 #### 第一步先找到自己想翻译的部分
 
@@ -33,6 +34,7 @@
 
 ### 贡献者列表
 
-成员 | 联系方式  | Github
-:------|:------|:------
-Lippi  | ouyanglip@gmail.com | [Github](https://github.com/LippiOuYang)
+| 成员 | 联系方式 | Github |
+| --- | --- | --- |
+| Lippi | ouyanglip@gmail.com | [Github](https://github.com/LippiOuYang) |
+
